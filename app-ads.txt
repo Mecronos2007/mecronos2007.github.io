@@ -161,3 +161,4 @@ stroeer.com, 17379, RESELLER
 verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
 conversantmedia.com, 41024, RESELLER, 03113cd04947736d
 netmarvel.com, 1011828, RESELLER, ca3509163a633862
+playdigo.com, 1965, RESELLER
